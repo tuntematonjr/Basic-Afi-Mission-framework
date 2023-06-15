@@ -1,0 +1,18 @@
+// These are needed for Wave Spawn to work!
+respawn = "Base";
+Respawndelay = 9999;
+DisabledAi = 1;
+enableDebugConsole = 1;
+enableTargetDebug = 1;
+
+class Params
+{
+    class afi_safeStart_duration
+    {
+            title = "SafeStart Timer";
+            values[] = {0,1,2,3,4,5,6,7,8,9,10,15,20};
+            texts[] = {"Safe Start Off","1","2","3","4","5","6","7","8","9","10","15","20"};
+            default = 15; //Default safestart time. Change this, needs to be one of these: 0,1,2,3,4,5,6,7,8,9,10,15,20
+            code = "afi_safeStart_timer = %1";
+    };
+};
