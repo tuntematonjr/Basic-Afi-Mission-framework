@@ -78,9 +78,13 @@ switch (playerSide) do {
         <br/>Squad strengths are maximum strengths and may have casualties due N.O.S.H.O.W pandemic.
         "]];
     };
+
+    case east: {
+
+    };
 };
 
-player createDiaryRecord ["Diary",["INTEL","
-<br/><font face='PuristaBold' size='15'>Text</font>
-<br/><img image='images\att1.jpg' width='376'/>
-"]];
+player createDiaryRecord ["Diary",["INTEL",
+(["Attacker", "images\att.jpg"] call tunuti_utilities_fnc_createBriefingBiggerPicture)+
+(["Defender", "images\def.jpg"] call tunuti_utilities_fnc_createBriefingBiggerPicture)
+]];
