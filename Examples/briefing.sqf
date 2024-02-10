@@ -93,19 +93,19 @@ switch (playerSide) do {
         <br/>Squad strengths are maximum strengths and may have casualties due N.O.S.H.O.W pandemic.
         <br/>
         <font face='PuristaBold' size='15'><br/>National Army</font>
-		<br/>    - Company command element
-		<br/>        - 3 man
+        <br/>    - Company command element
+        <br/>        - 3 man
         <br/>            - BRDM-2UM (Armed) (This is also MSP)
-		<br/>    1x Mechanized infantry platoons
-		<br/>        - 3 man command element
+        <br/>    1x Mechanized infantry platoons
+        <br/>        - 3 man command element
         <br/>             - Unarmed Hilux
-		<br/>        - 3x 10 around man squads
+        <br/>        - 3x 10 around man squads
         <br/>            - 1x BMP-1
         <br/>
         <br/>    1x Motorized infantry platoons
-		<br/>        - 3 man command element
+        <br/>        - 3 man command element
         <br/>             - Unarmed Hilux
-		<br/>        - 3x 10 around man squads
+        <br/>        - 3x 10 around man squads
         <br/>            - 1x Unarmed Hilux
         <br/>            - 1x Armed Hilux
         <br/>
@@ -120,11 +120,11 @@ switch (playerSide) do {
         player createDiaryRecord ["Diary",["Enemy","
         <br/>Squad strengths are maximum strengths and may have casualties due N.O.S.H.O.W pandemic.
         <br/>
-		<br/><font face='PuristaBold' size='15'>SOCOM</font>
-		<br/>
-		<br/>    - Company command element
-		<br/>        - 3 man
-		<br/>        - 3x 12 around man squads
+        <br/><font face='PuristaBold' size='15'>SOCOM</font>
+        <br/>
+        <br/>    - Company command element
+        <br/>        - 3 man
+        <br/>        - 3x 12 around man squads
         <br/> 
     	<br/>    - 4x MH-6 with crew
         <br/>    - 2x AH-6 with crew
@@ -145,15 +145,15 @@ switch (playerSide) do {
         "]];
 
         player createDiaryRecord ["Diary",["Own forces","
-		Squad strengths are maximum strengths and may have casulties due N.O.S.H.O.W pandemic.
-		<br/>
-		<br/>There is limited amount of radios.
-		<br/>
-		<br/><font face='PuristaBold' size='15'>SOCOM</font>
-		<br/>
-		<br/>    - Company command element
-		<br/>        - 3 man
-		<br/>        - 3x 12 around man squads
+        Squad strengths are maximum strengths and may have casulties due N.O.S.H.O.W pandemic.
+        <br/>
+        <br/>There is limited amount of radios.
+        <br/>
+        <br/><font face='PuristaBold' size='15'>SOCOM</font>
+        <br/>
+        <br/>    - Company command element
+        <br/>        - 3 man
+        <br/>        - 3x 12 around man squads
         <br/> 
     	<br/>    - 4x MH-6 with crew
         <br/>    - 2x MAH-6 with crew
@@ -168,19 +168,19 @@ switch (playerSide) do {
         <br/>Squad strengths are maximum strengths and may have casualties due N.O.S.H.O.W pandemic.
         <br/>
         <font face='PuristaBold' size='15'><br/>National Army</font>
-		<br/>    - Company command element
-		<br/>        - 3 man
+        <br/>    - Company command element
+        <br/>        - 3 man
         <br/>            - 
-		<br/>    1x Mechanized infantry platoons
-		<br/>        - 3 man command element
+        <br/>    1x Mechanized infantry platoons
+        <br/>        - 3 man command element
         <br/>             - Unarmed Hilux
-		<br/>        - 3x 10 around man squads
+        <br/>        - 3x 10 around man squads
         <br/>            - 1x BMP-1
         <br/>
         <br/>    1x Motorized infantry platoons
-		<br/>        - 3 man command element
+        <br/>        - 3 man command element
         <br/>             - Unarmed Hilux
-		<br/>        - 3x 10 around man squads
+        <br/>        - 3x 10 around man squads
         <br/>            - 1x Unarmed Hilux
         <br/>            - 1x Armed Hilux
         "]];
