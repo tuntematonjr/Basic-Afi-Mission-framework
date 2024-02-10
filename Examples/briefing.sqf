@@ -155,9 +155,9 @@ switch (playerSide) do {
 		<br/>		- 3 man
 		<br/>		- 3x 12 around man squads
 		<br/> 
-    	<br/>    - 4x MH-6 with crew
+		<br/>    - 4x MH-6 with crew
 		<br/>    - 2x MAH-6 with crew
-		 <br/>
+		<br/>
 		<br/>    Reserve vehicles
 		<br/>    Unlimited  MH-6 
 		<br/>    4x AH-6
