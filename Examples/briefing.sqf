@@ -78,112 +78,112 @@ switch (playerSide) do {
 
     case east: {
 
-        player createDiaryRecord ["Diary",["Mission","
-        <br/><font color='#84e4ff'><marker name = 'Outpost1'>Outpost 1</marker></font color> - <font color='#84e4ff'><marker name = 'Outpost2'>Outpost 2</marker></font color> - <font color='#84e4ff'><marker name = 'Outpost3'>Outpost 3:</marker></font color> Three lightly guarded outposts manned by local army forces are scattered throughout the area. While not a critical objective, taking control of them would help disrupt the defenders' overall coordination.
-        <br/><br/><font color='#84e4ff'><marker name = 'fob'>FOB:</marker></font color> A small Forward Operating Base is defended by 1-2 squads of US soldiers. While most of the important supplies have been removed, there are still vehicles and some supplies to be destroyed to prevent their use by the defenders.
-        <br/><br/><font color='#84e4ff'><marker name = 'Checkpoint1'>Checkpoint1</marker></font color> <font color='#84e4ff'> - <marker name = 'Checkpoint2'>Checkpoint2:</marker></font color>There are two checkpoints, one larger than the other. The first is guarded by US soldiers and the second by local army forces, with 1-2 squads at each location. Capturing the checkpoints would help the attackers gain control of the region and disrupt the defenders' movements.
-        <br/><br/><font color='#84e4ff'><marker name = 'hq'>Field HQ:</marker></font color> A Field Headquarters is defended by 1 squad of US soldiers and serves as a vital link in the coordination between the local forces and the US. Destroying the HQ would greatly hamper the defenders' ability to coordinate their defense.
-        <br/><br/><font color='#84e4ff'><marker name = 'oil'>Oil Refinery:</marker></font color> Although there are no stationary guards at the refinery, capturing and holding it would allow the attackers to gain control of a valuable economic asset.
-        <br/><br/><font color='#84e4ff'><marker name = 'idap'>IDAP Operations:</marker></font color>  A local aid center with supplies for civilians is unguarded. Capturing the supplies would help disrupt the defenders' ability to provide aid to the local population.
-        <br/><br/><font color='#84e4ff'><marker name = 'vip'>VIP:</marker></font color> An < local person who refuses to evacuate is located in the area. Killing the VIP would be a major blow to the defenders' morale and disrupt their coordination.
-        <br/><br/><font color='#84e4ff'><marker name = 'Embassy'>US Embassy:</marker></font color> The most important objective for the attackers. The embassy is defended by an unknown number of US soldiers and must be captured and held, along with taking any civilians as hostages to use as leverage against the defenders.
-        "]];
+		player createDiaryRecord ["Diary",["Mission","
+		<br/><font color='#84e4ff'><marker name = 'Outpost1'>Outpost 1</marker></font color> - <font color='#84e4ff'><marker name = 'Outpost2'>Outpost 2</marker></font color> - <font color='#84e4ff'><marker name = 'Outpost3'>Outpost 3:</marker></font color> Three lightly guarded outposts manned by local army forces are scattered throughout the area. While not a critical objective, taking control of them would help disrupt the defenders' overall coordination.
+		<br/><br/><font color='#84e4ff'><marker name = 'fob'>FOB:</marker></font color> A small Forward Operating Base is defended by 1-2 squads of US soldiers. While most of the important supplies have been removed, there are still vehicles and some supplies to be destroyed to prevent their use by the defenders.
+		<br/><br/><font color='#84e4ff'><marker name = 'Checkpoint1'>Checkpoint1</marker></font color> <font color='#84e4ff'> - <marker name = 'Checkpoint2'>Checkpoint2:</marker></font color>There are two checkpoints, one larger than the other. The first is guarded by US soldiers and the second by local army forces, with 1-2 squads at each location. Capturing the checkpoints would help the attackers gain control of the region and disrupt the defenders' movements.
+		<br/><br/><font color='#84e4ff'><marker name = 'hq'>Field HQ:</marker></font color> A Field Headquarters is defended by 1 squad of US soldiers and serves as a vital link in the coordination between the local forces and the US. Destroying the HQ would greatly hamper the defenders' ability to coordinate their defense.
+		<br/><br/><font color='#84e4ff'><marker name = 'oil'>Oil Refinery:</marker></font color> Although there are no stationary guards at the refinery, capturing and holding it would allow the attackers to gain control of a valuable economic asset.
+		<br/><br/><font color='#84e4ff'><marker name = 'idap'>IDAP Operations:</marker></font color>  A local aid center with supplies for civilians is unguarded. Capturing the supplies would help disrupt the defenders' ability to provide aid to the local population.
+		<br/><br/><font color='#84e4ff'><marker name = 'vip'>VIP:</marker></font color> An < local person who refuses to evacuate is located in the area. Killing the VIP would be a major blow to the defenders' morale and disrupt their coordination.
+		<br/><br/><font color='#84e4ff'><marker name = 'Embassy'>US Embassy:</marker></font color> The most important objective for the attackers. The embassy is defended by an unknown number of US soldiers and must be captured and held, along with taking any civilians as hostages to use as leverage against the defenders.
+		"]];
 
-        player createDiaryRecord ["Diary",["Own forces","
-        <br/>Squad strengths are maximum strengths and may have casualties due N.O.S.H.O.W pandemic.
-        <br/>
-        <font face='PuristaBold' size='15'><br/>National Army</font>
-        <br/>    - Company command element
-        <br/>        - 3 man
-        <br/>            - BRDM-2UM (Armed) (This is also MSP)
-        <br/>    1x Mechanized infantry platoons
-        <br/>        - 3 man command element
-        <br/>             - Unarmed Hilux
-        <br/>        - 3x 10 around man squads
-        <br/>            - 1x BMP-1
-        <br/>
-        <br/>    1x Motorized infantry platoons
-        <br/>        - 3 man command element
-        <br/>             - Unarmed Hilux
-        <br/>        - 3x 10 around man squads
-        <br/>            - 1x Unarmed Hilux
-        <br/>            - 1x Armed Hilux
-        <br/>
-        <br/>    Reserve vehicles
-        <br/>    Unlimited unarmed hilux and MSPs
-        <br/>    6x BMP-1
-        <br/>    4x Hilux (AGS-30)
-        <br/>    7x Hilux (DHSKM)
-        <br/>    7x Hilux (M2)
-        "]];
+		player createDiaryRecord ["Diary",["Own forces","
+		<br/>Squad strengths are maximum strengths and may have casualties due N.O.S.H.O.W pandemic.
+		<br/>
+		<font face='PuristaBold' size='15'><br/>National Army</font>
+		<br/>    - Company command element
+		<br/>		- 3 man
+		<br/>		    - BRDM-2UM (Armed) (This is also MSP)
+		<br/>    1x Mechanized infantry platoons
+		<br/>		- 3 man command element
+		<br/>		     - Unarmed Hilux
+		<br/>		- 3x 10 around man squads
+		<br/>		    - 1x BMP-1
+		<br/>
+		<br/>    1x Motorized infantry platoons
+		<br/>		- 3 man command element
+		<br/>		     - Unarmed Hilux
+		<br/>		- 3x 10 around man squads
+		<br/>		    - 1x Unarmed Hilux
+		<br/>		    - 1x Armed Hilux
+		<br/>
+		<br/>    Reserve vehicles
+		<br/>    Unlimited unarmed hilux and MSPs
+		<br/>    6x BMP-1
+		<br/>    4x Hilux (AGS-30)
+		<br/>    7x Hilux (DHSKM)
+		<br/>    7x Hilux (M2)
+		"]];
 
-        player createDiaryRecord ["Diary",["Enemy","
-        <br/>Squad strengths are maximum strengths and may have casualties due N.O.S.H.O.W pandemic.
-        <br/>
-        <br/><font face='PuristaBold' size='15'>SOCOM</font>
-        <br/>
-        <br/>    - Company command element
-        <br/>        - 3 man
-        <br/>        - 3x 12 around man squads
-        <br/> 
-    	<br/>    - 4x MH-6 with crew
-        <br/>    - 2x AH-6 with crew
-        "]];
+		player createDiaryRecord ["Diary",["Enemy","
+		<br/>Squad strengths are maximum strengths and may have casualties due N.O.S.H.O.W pandemic.
+		<br/>
+		<br/><font face='PuristaBold' size='15'>SOCOM</font>
+		<br/>
+		<br/>    - Company command element
+		<br/>		- 3 man
+		<br/>		- 3x 12 around man squads
+		<br/> 
+		<br/>    - 4x MH-6 with crew
+		<br/>    - 2x AH-6 with crew
+		"]];
     };
 
     case west: {
 
-        player createDiaryRecord ["Diary",["Mission","
-        <br/><font color='#84e4ff'><marker name = 'Outpost1'>Outpost 1</marker></font color> - <font color='#84e4ff'><marker name = 'Outpost2'>Outpost 2</marker></font color> - <font color='#84e4ff'><marker name = 'Outpost3'>Outpost 3:</marker></font color>  Three lightly guarded outposts manned by local army forces are scattered throughout the area. While not a critical objective, defending the outposts will help maintain situational awareness and provide potential warning of incoming attacks.
-        <br/><br/><font color='#84e4ff'><marker name = 'fob'>FOB:</marker></font color>  A small Forward Operating Base is defended by 1-2 squads of US soldiers. While most of the important supplies have been removed, defending what remains will help the defenders maintain their logistical capabilities.
-        <br/><br/><font color='#84e4ff'><marker name = 'Checkpoint1'>Checkpoint1</marker></font color> <font color='#84e4ff'> - <marker name = 'Checkpoint2'>Checkpoint2:</marker></font color>There are two checkpoints, one larger than the other. The first is guarded by US soldiers and the second by local army forces, with 1-2 squads at each location. Defending the checkpoints will help slow the attackers' advance and disrupt their movements.
-        <br/><br/><font color='#84e4ff'><marker name = 'hq'>Field HQ:</marker></font color> A Field Headquarters is defended by 1 squad of US soldiers and serves as a vital link in the coordination between the local forces and the US. Defending the HQ is crucial to maintaining effective communication and coordination among the defenders.
-        <br/><br/><font color='#84e4ff'><marker name = 'oil'>Oil Refinery:</marker></font color> Although there are no stationary guards at the refinery, protecting it is critical to prevent the attackers from gaining control of a valuable economic asset.
-        <br/><br/><font color='#84e4ff'><marker name = 'idap'>IDAP Operations:</marker></font color> A local aid center with supplies for civilians is unguarded. Defending the supplies is important to maintain the trust and support of the local population.
-        <br/><br/><font color='#84e4ff'><marker name = 'vip'>VIP:</marker></font color> An important local person who refuses to evacuate is located in the area. Protecting the VIP is of utmost importance to the mission's success and must be defended at all costs.
-        <br/><br/><font color='#84e4ff'><marker name = 'Embassy'>US Embassy:</marker></font color> The most important objective for the defenders. The embassy is defended by an unknown number of US soldiers and must be protected at all costs due to its diplomatic and political significance.
-        "]];
+		player createDiaryRecord ["Diary",["Mission","
+		<br/><font color='#84e4ff'><marker name = 'Outpost1'>Outpost 1</marker></font color> - <font color='#84e4ff'><marker name = 'Outpost2'>Outpost 2</marker></font color> - <font color='#84e4ff'><marker name = 'Outpost3'>Outpost 3:</marker></font color>  Three lightly guarded outposts manned by local army forces are scattered throughout the area. While not a critical objective, defending the outposts will help maintain situational awareness and provide potential warning of incoming attacks.
+		<br/><br/><font color='#84e4ff'><marker name = 'fob'>FOB:</marker></font color>  A small Forward Operating Base is defended by 1-2 squads of US soldiers. While most of the important supplies have been removed, defending what remains will help the defenders maintain their logistical capabilities.
+		<br/><br/><font color='#84e4ff'><marker name = 'Checkpoint1'>Checkpoint1</marker></font color> <font color='#84e4ff'> - <marker name = 'Checkpoint2'>Checkpoint2:</marker></font color>There are two checkpoints, one larger than the other. The first is guarded by US soldiers and the second by local army forces, with 1-2 squads at each location. Defending the checkpoints will help slow the attackers' advance and disrupt their movements.
+		<br/><br/><font color='#84e4ff'><marker name = 'hq'>Field HQ:</marker></font color> A Field Headquarters is defended by 1 squad of US soldiers and serves as a vital link in the coordination between the local forces and the US. Defending the HQ is crucial to maintaining effective communication and coordination among the defenders.
+		<br/><br/><font color='#84e4ff'><marker name = 'oil'>Oil Refinery:</marker></font color> Although there are no stationary guards at the refinery, protecting it is critical to prevent the attackers from gaining control of a valuable economic asset.
+		<br/><br/><font color='#84e4ff'><marker name = 'idap'>IDAP Operations:</marker></font color> A local aid center with supplies for civilians is unguarded. Defending the supplies is important to maintain the trust and support of the local population.
+		<br/><br/><font color='#84e4ff'><marker name = 'vip'>VIP:</marker></font color> An important local person who refuses to evacuate is located in the area. Protecting the VIP is of utmost importance to the mission's success and must be defended at all costs.
+		<br/><br/><font color='#84e4ff'><marker name = 'Embassy'>US Embassy:</marker></font color> The most important objective for the defenders. The embassy is defended by an unknown number of US soldiers and must be protected at all costs due to its diplomatic and political significance.
+		"]];
 
-        player createDiaryRecord ["Diary",["Own forces","
-        Squad strengths are maximum strengths and may have casulties due N.O.S.H.O.W pandemic.
-        <br/>
-        <br/>There is limited amount of radios.
-        <br/>
-        <br/><font face='PuristaBold' size='15'>SOCOM</font>
-        <br/>
-        <br/>    - Company command element
-        <br/>        - 3 man
-        <br/>        - 3x 12 around man squads
-        <br/> 
+		player createDiaryRecord ["Diary",["Own forces","
+		Squad strengths are maximum strengths and may have casulties due N.O.S.H.O.W pandemic.
+		<br/>
+		<br/>There is limited amount of radios.
+		<br/>
+		<br/><font face='PuristaBold' size='15'>SOCOM</font>
+		<br/>
+		<br/>    - Company command element
+		<br/>		- 3 man
+		<br/>		- 3x 12 around man squads
+		<br/> 
     	<br/>    - 4x MH-6 with crew
-        <br/>    - 2x MAH-6 with crew
-         <br/>
-        <br/>    Reserve vehicles
-        <br/>    Unlimited  MH-6 
-        <br/>    4x AH-6
-        "]];
+		<br/>    - 2x MAH-6 with crew
+		 <br/>
+		<br/>    Reserve vehicles
+		<br/>    Unlimited  MH-6 
+		<br/>    4x AH-6
+		"]];
 
 
-        player createDiaryRecord ["Diary",["Enemy","
-        <br/>Squad strengths are maximum strengths and may have casualties due N.O.S.H.O.W pandemic.
-        <br/>
-        <font face='PuristaBold' size='15'><br/>National Army</font>
-        <br/>    - Company command element
-        <br/>        - 3 man
-        <br/>            - 
-        <br/>    1x Mechanized infantry platoons
-        <br/>        - 3 man command element
-        <br/>             - Unarmed Hilux
-        <br/>        - 3x 10 around man squads
-        <br/>            - 1x BMP-1
-        <br/>
-        <br/>    1x Motorized infantry platoons
-        <br/>        - 3 man command element
-        <br/>             - Unarmed Hilux
-        <br/>        - 3x 10 around man squads
-        <br/>            - 1x Unarmed Hilux
-        <br/>            - 1x Armed Hilux
-        "]];
+		player createDiaryRecord ["Diary",["Enemy","
+		<br/>Squad strengths are maximum strengths and may have casualties due N.O.S.H.O.W pandemic.
+		<br/>
+		<font face='PuristaBold' size='15'><br/>National Army</font>
+		<br/>    - Company command element
+		<br/>		- 3 man
+		<br/>		    - 
+		<br/>    1x Mechanized infantry platoons
+		<br/>		- 3 man command element
+		<br/>		     - Unarmed Hilux
+		<br/>		- 3x 10 around man squads
+		<br/>		    - 1x BMP-1
+		<br/>
+		<br/>    1x Motorized infantry platoons
+		<br/>		- 3 man command element
+		<br/>		     - Unarmed Hilux
+		<br/>		- 3x 10 around man squads
+		<br/>		    - 1x Unarmed Hilux
+		<br/>		    - 1x Armed Hilux
+		"]];
     };
 };
 
